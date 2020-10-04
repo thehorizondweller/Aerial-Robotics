@@ -15,3 +15,8 @@ Note that mathematical knowledge in the following topics will be of help:
 2. Differential Equations
 3. Calculus of Variations
 
+
+###Folder Structure
+Under each folder, *controller.m* script contains the control laws used to drive the quadrotor.
+*runsim.m* file contains instructions to link files from the /utils directory and run simulations
+for the control law entered in the *controller.m* script.
